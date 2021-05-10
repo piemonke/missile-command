@@ -5,6 +5,7 @@
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":4,},
     {"id":{"name":"spr_silo","path":"sprites/spr_silo/spr_silo.yy",},"order":2,},
     {"id":{"name":"spr_crosshair","path":"sprites/spr_crosshair/spr_crosshair.yy",},"order":0,},
+    {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},"order":2,},
     {"id":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},"order":4,},
     {"id":{"name":"obj_crosshair","path":"objects/obj_crosshair/obj_crosshair.yy",},"order":0,},
     {"id":{"name":"obj_ship","path":"objects/obj_ship/obj_ship.yy",},"order":2,},
@@ -16,8 +17,9 @@
     {"id":{"name":"obj_ship_spawner","path":"objects/obj_ship_spawner/obj_ship_spawner.yy",},"order":9,},
     {"id":{"name":"obj_meteor_spawner","path":"objects/obj_meteor_spawner/obj_meteor_spawner.yy",},"order":7,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":6,},
+    {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -33,7 +35,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
