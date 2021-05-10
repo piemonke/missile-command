@@ -13,3 +13,7 @@ If you wish to more fluidly make changes to the game, you will have to download 
 Clone down this repo and import the project into the IDE.
 
 ### Screenshots
+
+![Main Menu Screen](https://cdn.discordapp.com/attachments/583537590892888064/841276099329130546/unknown.png)
+
+![Main Game](https://cdn.discordapp.com/attachments/583537590892888064/841271137957576714/unknown.png)
