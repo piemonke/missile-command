@@ -3,3 +3,5 @@
 
 //when meteor collides with building, destroy building
 instance_destroy();
+
+lives -= 1;

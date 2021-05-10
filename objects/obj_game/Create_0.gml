@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-motion_add(270, -8);
+score = 0;
+lives = 5;
+global.missiles = 20;
