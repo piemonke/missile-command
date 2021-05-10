@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_missile",
-    "path": "sprites/spr_missile/spr_missile.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,9 +18,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ship","path":"objects/obj_ship/obj_ship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_missile",
+  "name": "obj_meteor_spawner",
   "tags": [],
   "resourceType": "GMObject",
 }

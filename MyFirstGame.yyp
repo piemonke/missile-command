@@ -12,6 +12,7 @@
     {"id":{"name":"obj_silo","path":"objects/obj_silo/obj_silo.yy",},"order":3,},
     {"id":{"name":"spr_building","path":"sprites/spr_building/spr_building.yy",},"order":3,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":6,},
+    {"id":{"name":"obj_meteor_spawner","path":"objects/obj_meteor_spawner/obj_meteor_spawner.yy",},"order":7,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":6,},
     {"id":{"name":"obj_meteor","path":"objects/obj_meteor/obj_meteor.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
